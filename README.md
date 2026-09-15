@@ -344,6 +344,7 @@ The status of each parking slot, number of available spaces, parking condition, 
 - Airport parking systems
 - Smart city parking systems
 - Residential parking management
+- 
 
 ---
 
